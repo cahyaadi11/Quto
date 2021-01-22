@@ -126,7 +126,7 @@ class UpdatePage extends Component {
           activeOpacity={0.5}
           style={styles.buttonStyle}
           onPress={() => this.chooseFile('photo')}>
-          <Text style={styles.textStyle}>Choose Image</Text>
+          <Text style={styles.textStyle}>Choose Image (aku tak berdaya jul T_T)</Text>
         </TouchableOpacity>
 
         <TouchableOpacity
